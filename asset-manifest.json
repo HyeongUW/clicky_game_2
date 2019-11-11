@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/clicky_game_2/static/css/main.400d4529.chunk.css",
+    "main.js": "/clicky_game_2/static/js/main.427d2ea0.chunk.js",
+    "main.js.map": "/clicky_game_2/static/js/main.427d2ea0.chunk.js.map",
+    "runtime-main.js": "/clicky_game_2/static/js/runtime-main.75812be1.js",
+    "runtime-main.js.map": "/clicky_game_2/static/js/runtime-main.75812be1.js.map",
+    "static/js/2.8d779288.chunk.js": "/clicky_game_2/static/js/2.8d779288.chunk.js",
+    "static/js/2.8d779288.chunk.js.map": "/clicky_game_2/static/js/2.8d779288.chunk.js.map",
+    "index.html": "/clicky_game_2/index.html",
+    "precache-manifest.9a5602d598ae0a9473d3916edc725aed.js": "/clicky_game_2/precache-manifest.9a5602d598ae0a9473d3916edc725aed.js",
+    "service-worker.js": "/clicky_game_2/service-worker.js",
+    "static/css/main.400d4529.chunk.css.map": "/clicky_game_2/static/css/main.400d4529.chunk.css.map",
+    "static/media/1.balloon.png": "/clicky_game_2/static/media/1.balloon.cbc1c870.png",
+    "static/media/10.png": "/clicky_game_2/static/media/10.017f50a7.png",
+    "static/media/11.png": "/clicky_game_2/static/media/11.32572bb0.png",
+    "static/media/12.png": "/clicky_game_2/static/media/12.79619427.png",
+    "static/media/2.raider.png": "/clicky_game_2/static/media/2.raider.8242b5f5.png",
+    "static/media/3.hitting a pip-boy.png": "/clicky_game_2/static/media/3.hitting a pip-boy.ab1264f9.png",
+    "static/media/4.prisoner.png": "/clicky_game_2/static/media/4.prisoner.d0c902fd.png",
+    "static/media/5.chicago type writer.png": "/clicky_game_2/static/media/5.chicago type writer.2899a529.png",
+    "static/media/6.humming.png": "/clicky_game_2/static/media/6.humming.0cf8b465.png",
+    "static/media/7.heavyload.png": "/clicky_game_2/static/media/7.heavyload.ca1b798c.png",
+    "static/media/8.like.png": "/clicky_game_2/static/media/8.like.cf769ff9.png",
+    "static/media/9.greedy.png": "/clicky_game_2/static/media/9.greedy.f7f1d912.png",
+    "static/media/index.css": "/clicky_game_2/static/media/Overseer.1899e899.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75812be1.js",
+    "static/js/2.8d779288.chunk.js",
+    "static/css/main.400d4529.chunk.css",
+    "static/js/main.427d2ea0.chunk.js"
+  ]
+}
