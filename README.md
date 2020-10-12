@@ -1,5 +1,5 @@
 # clicky_game
-* The purpose of this game is to achieve the hightest score possible by avoiding clicking same character image two times. After each click, the images will be rearranged in a new order to disrupt users achieving high score.
+* The purpose of this game is to achieve the highest score possible by avoiding clicking same character image two times. After each click, the images will be rearranged in a new order to disrupt users achieving high score.
 
 ## Demonstration
 ![demo](./static/media/demo.gif)
